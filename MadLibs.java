@@ -6,7 +6,7 @@ public class MadLibs
     {
     Scanner scanner = new Scanner(System.in); //creates a scanner object
     String madLib = "<Proper noun> is a <adjective> apple, but a cat <verb> it."; // madLib 1
-    //madLib = ""; // madLib 2
+    //madLib = "<Greeting>, the <noun> is near <location>"; // madLib 2
     //madLib = ""; //madLib 3
 
     // finds the index of brackets for word descriptor
