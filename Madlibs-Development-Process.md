@@ -1,5 +1,5 @@
  1_2_10 Madlibs Project: Development Process
-
+ 
 Description:
     --> Madlibs is a fun game in which you are asked to enter a type of word (i.e. noun, adjective, verb) without knowing the full sentence.
 
